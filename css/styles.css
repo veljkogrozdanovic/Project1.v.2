@@ -159,9 +159,10 @@ footer {
 	height: 80px;
 	width: 100%;
 	background: darkgray;
-	position: fixed;
+	position: sticky;
 	bottom: 0;
 	left: 0;
+	margin: 0;
 	padding: 0;
 }
 footer div {
